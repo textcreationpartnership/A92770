@@ -1,0 +1,262 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sea-fight: two ships taken by Captain Southwood, and Captain Faulkner. Prince Chares [sic] his letters, with a commission; and other letters and papers taken at Paroes, with provisions and ammunition going to relieve Pendennis Castle. With 6 pieces of ordnance, 3 murderers, 20 barrels of gun-powder 10 barrels of beef, 6 chaldron of coals, 3 fat of peas, 100 weight of match, one cask and a half of bread, a barrel of candles. Also, 50 head of cattel taken at Aram. 30 casks of salmon taken at Bereskellet; and a ship taken at Dingle with two great guns, 2 murderers, 2 chambers, and the rebels all taken prisoners. These papers being examined, are commanded to be printed, and are published according to order of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92770</idno>
+            <idno type="STC">Wing S2168</idno>
+            <idno type="STC">Thomason E340_19</idno>
+            <idno type="STC">ESTC R200879</idno>
+            <idno type="EEBO-CITATION">99861504</idno>
+            <idno type="PROQUEST">99861504</idno>
+            <idno type="VID">159744</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92770)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159744)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E340[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sea-fight: two ships taken by Captain Southwood, and Captain Faulkner. Prince Chares [sic] his letters, with a commission; and other letters and papers taken at Paroes, with provisions and ammunition going to relieve Pendennis Castle. With 6 pieces of ordnance, 3 murderers, 20 barrels of gun-powder 10 barrels of beef, 6 chaldron of coals, 3 fat of peas, 100 weight of match, one cask and a half of bread, a barrel of candles. Also, 50 head of cattel taken at Aram. 30 casks of salmon taken at Bereskellet; and a ship taken at Dingle with two great guns, 2 murderers, 2 chambers, and the rebels all taken prisoners. These papers being examined, are commanded to be printed, and are published according to order of Parliament.</title>
+                  <author>England and Wales. Parliament. aut</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iane Coe,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>June 12. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pendennis Castle (Falmouth, England) --  Siege, 1646 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Naval operations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159744:1" rendition="simple:additions"/>
+            <p>A SEA-FIGHT: TWO Ships taken by Captain SOUTHWOOD, and Captain FAULKNER.</p>
+            <p>PRINCE CHARES HIS Letters, with a Commiſſion; and other Letters and Papers taken at PAROES, with Proviſions and Ammunition going to relieve <hi>Pendennis</hi> Caſtle.</p>
+            <p>With 6 Pieces of Ordnance, 3 Murderers, 20 Barrels of Gun-powder 10 Barrels of Beef, 6 Chaldron of Coals, 3 Fat of Peas, 100 weight of Match, One Cask and a half of Bread, a Barrel of Candles.</p>
+            <p>Alſo, 50 Head of Cattel taken at <hi>Aram.</hi> 30 Casks of Sal<g ref="char:EOLhyphen"/>mon taken at <hi>Bereskellet;</hi> and a ſhip taken at <hi>Dingle</hi> with two great Guns, 2 Murderers, 2 Ch<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>bers, and the Rebels all taken priſoners.</p>
+            <floatingText type="license" xml:lang="eng" subtype="order_to_print">
+               <body>
+                  <p>
+                     <hi>Theſe Papers being examined, are commanded to be printed and are publiſhed according to Order of</hi> PARLIAMENT.</p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>London,</hi> Printed by <hi>Iane Coe,</hi> June 12. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:159744:2"/>
+            <pb n="1" facs="tcp:159744:2"/>
+            <head>SEVERALL Victories, AND GOOD SER<g ref="char:EOLhyphen"/>vices done by CAPTAIN <hi>Henry Southwood,</hi> and Captaine Faulkner againſt the rebels in Ireland, as alſo the taking of a Ship going to r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lieve <hi>Pendennis</hi> Caſtle, with Letters interc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pted from Prince <hi>Charles.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">C</seg>Aptaine <hi>Henry Southwood,</hi> and Captaine <hi>Thomas Faulkner;</hi> being implo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed in the Command of 2. Merchants men of Warre, ſayling upon the Coaſts of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> put in at <hi>Bareskellet,</hi> and there went on ſhore and tooke 30. <hi>C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sk<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> of <hi>Salmon</hi> from the Rebels, and drove away 60. of them<g ref="char:punc">▪</g> who fled from the place before them.</p>
+            <pb n="2" facs="tcp:159744:3"/>
+            <p>And the ſaid Capt. Henry Southwood in the VVarſpit Frigot, and Capt. Thomas Faulkner in the Increaſe Frigot, took a ſhip at the Dingle De-Couch in Ireland, laden with Oade, perſumed Oyle and Sugers, two Guns, and two Murderers, and all the men priſoners; from thence they ſay<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d toward the Iles of Aran, they took one of the Iſles of Aran before the Bay of Galloway, and abou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 500 head of Cattell; beſides ſheepe, horſes, and other Beaſts, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut of which they made uſe of proviſions: there they had a Deſigne to have fallen upon a ſhip in the Road of G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lloway with 24 Guns, and her Conſort with ten Guns, but the day coming on (for it was intended to be attempted in the night) and they being diſcove<g ref="char:EOLhyphen"/>red could not perform it, the enemy being provi<g ref="char:EOLhyphen"/>ded with ſmal ſhot that they could not come on, ſo they returned to the Iſland of the Blasker<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es; and from thence the next day they ſet out from Ferretors Iſland, and ſayled towards Caplier, and diſcovered ſome Sayl of ſhips within ſome ten leagues of Caplier before them: wherupon com<g ref="char:EOLhyphen"/>mand was given, and we chaſed them ſome twen<g ref="char:EOLhyphen"/>ty leagues, and then diſcovering them to bee the Parliament ſhips that came from Minhead, that buſineſſe was diſſerted, and it being diſtreſſe of weather, our ſhips put in the channel in the coaſts of England, where on Saturday morning Iune 6. they diſcovered the A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mirall Captain B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ttens Kerch, and had ſome debate with the Comman<g ref="char:EOLhyphen"/>der of it, and from thence ſayled to and again (by reaſon of ill weather) all that night, and on the
+<pb n="3" facs="tcp:159744:3"/> Lords day in the morning (being neer the Coaſts of France we made way towards it, and diſcove<g ref="char:EOLhyphen"/>red the end in a ſhort time, and put into a Port called Paroes, where were divers French Veſſels in the Harb<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur<g ref="char:punc">▪</g> and in the Road diſcovered a Man of VVar of the Kings, which was a Dagger boat about 70 Tun; whereupon we made ſayle towards her, the Commander whereof percei<g ref="char:EOLhyphen"/>ving us, cauſed the Cables <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o be cut, and ran im<g ref="char:EOLhyphen"/>mediatly aſhore; we came preſently to anchor, within piſtoll ſhot of her, and made ſome ſhot, they ſoon anſwe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed us, and the fight was ve<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y hot, but the water flowing, w<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e weighed anchor, intending to board her, which the enemy ſeeing, made means and got their Veſſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll off the ſhore, and ſet ſayle, but being hardly purſued, and their Boat t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ken before with ſix men in her, they ran aſhore with the ſhip againe ſome three miles from us, thinking that we could not follow the chaſe by reaſon of the danger of the Rocks tho<g ref="char:EOLhyphen"/>row which we was to ſayle, and all this while both Parties continued ſhooting, the Enemy playing very faſt upon us, but we followed them cloſe, ſo the enemy came aſhore ag<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in, and ſeeing us follow them ſo cloſe, fired their Guns upon us, which being done, they were ſo plyed with our ſmal ſhot<g ref="char:punc">▪</g> and Caſe-ſhot out of our great <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uns, that they having not time to ſhoot again, before our men boar<g ref="char:EOLhyphen"/>ded them, divers of them leaped over-board, amongſt which there were 3 that were drowned, two of them Iriſh, and one ſhot.</p>
+            <pb n="4" facs="tcp:159744:4"/>
+            <p>There were 2. Knights and ſome others of quality be<g ref="char:EOLhyphen"/>longing to the Shipp but were a ſhore before, and many of them were Iriſh; the men were all Iriſh Souldiers moſt of them that were going to joyne with the enemy in <hi>Pendenn<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> Caſtle; having boarded her, we got her off the ſhore, notwithſtanding the In<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>abitants and others pl<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d div<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s ſmall ſhot againſt us, inſomuch that Cap<g ref="char:EOLhyphen"/>ta<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne <hi>Faulkner</hi> received a ſhot through the Crowne of his Cap after he boarded her, but had no hurt at all, and the Bullets flew thick about us, yet we had not one man hurt, we made many ſhot at them; but in brief we tooke the S<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ip, and all therein, and brought her away: The Cap<g ref="char:EOLhyphen"/>tain<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s name of this Ship that was ſent by the Prince to <hi>Pend<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nn<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> is Captaine <hi>Thomas Dyamond;</hi> who had his Commiſſion fo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Prince <hi>Charles</hi> for the deſigne,</p>
+            <list>
+               <head>A Liſt of what was taken in <hi>Ireland,</hi> and at <hi>Peroes</hi> in <hi>Brittany,</hi> by Cap<g ref="char:EOLhyphen"/>taine <hi>Henry Southwood,</hi> and Cap<g ref="char:EOLhyphen"/>taine <hi>Thomas Faulkner.</hi>
+               </head>
+               <item>
+                  <hi>At Beresketley in Ireland.</hi>
+                  <list>
+                     <item>
+                        <hi>30.</hi> Caskes of <hi>Salmon</hi> taken from the Rebels.</item>
+                     <item>
+                        <hi>60.</hi> of the Rebbels driven from thence.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>At Dingley-de-couch</hi>
+                  <list>
+                     <item>A Ship taken of the Kings loaded with Wares, Oade great ſtore.
+<pb n="5" facs="tcp:159744:4"/>Perfumed Oyle, and ſome Suger.
+<list>
+                           <item>
+                              <hi>2.</hi> Great Jron Gunes in her.</item>
+                           <item>
+                              <hi>2.</hi> Murd<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ring Peices.</item>
+                           <item>
+                              <hi>2.</hi> Chambers.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>The men that were in her taken pri<g ref="char:EOLhyphen"/>ſoners, at the Jſle of <hi>Aram.</hi>
+                  <list>
+                     <item>
+                        <hi>50</hi> Head of Cattle taken from the Rebbels, ſome Horſes were there, di<g ref="char:EOLhyphen"/>vers Sheepe Goats and other Beaſts.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Taken at</hi> Peroes <hi>in</hi> Brittany <hi>on the Borders of</hi> France <hi>on Sunday the 7. of</hi> June <hi>1646. by the ſaid Captaine</hi> Southward, <hi>and Captaine</hi> Faulkner.
+<list>
+                     <item>
+                        <hi>1.</hi> Ship of the Kings (ſent from Prince <hi>Charles,</hi> from Jarſey to re<g ref="char:EOLhyphen"/>lieve <hi>Pendennis</hi>) of <hi>70.</hi> Tun burden P. <hi>Charles</hi> His Commiſſion to Capt. <hi>Diamond</hi> Commander of the Ship.</item>
+                     <item>A Paper of inſtructions to Captain
+<pb n="6" facs="tcp:159744:5"/> 
+                        <hi>Diamond,</hi> to bring accompt from <hi>Pendenis</hi> of the ſtrength, and ſtate of that place, what proviſions they had received, and what they wanted.</item>
+                     <item>A letter from Prince <hi>Charles</hi> to <hi>Penden<g ref="char:EOLhyphen"/>nis.</hi> Letters from the L. <hi>Culpepper,</hi> and others. All tackles belonging to the ſhip.</item>
+                     <item>
+                        <hi>3</hi> Letters in the Cook-room of the ſhip.</item>
+                     <item>
+                        <hi>2</hi> Lanthorns. <hi>2</hi> Iron Crowes in the Gun-room. <hi>30</hi> Fatham of ſpare cable. <hi>2</hi> Anchors for the ſhip. One cask and a half of bread. One barrel of Muſtard-ſeed. One barrell of candles <hi>8</hi> priming horns. <hi>100</hi> Weight of Match, and other Remnants. A great quanti<g ref="char:EOLhyphen"/>ty of ſhot great and ſmall. <hi>12</hi> Great Oars in the ſhip to row it. <hi>3</hi> Dry fats of Peaſe, with corn, fleſh, &amp;c. <hi>6</hi> Chauthorn of Sea-coales. <hi>10</hi> Barrels of Beefe. <hi>65</hi> Hogs cut up, and ſalted. <hi>10</hi> Tun of Syder. Twenty Barrels of Gun-powder. <hi>10</hi> Muskets. <hi>6</hi> Pieces of Ordnance. <hi>2</hi> Murdering Pieces and <hi>2</hi> Chambers.</item>
+                  </list>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
